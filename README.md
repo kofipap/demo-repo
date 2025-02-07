@@ -6,4 +6,4 @@ description !!
 kofi learning tot
 
 ## local development
-1. open index.html in browser
+1. open index.html in all browser
